@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.4"
+  },
+  "devDependencies": {
+    "@cypress/webpack-preprocessor": "^6.0.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}

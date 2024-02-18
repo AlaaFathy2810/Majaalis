@@ -1,0 +1,19 @@
+{
+"adminModule":{
+    "adminData":{
+        "email":"abdelrahman.ibrahem+11@mobidevlabs.com",
+        "password":"@Aa12345"
+    } 
+},
+"studentModule": {
+    "studentData":{
+        "usernameValid":"abdelrahman.ibrahem+20@mobidevlabs.com",
+        "passwordValid":"@Aa12345 ",
+        "usernameInvalid": "abdoo@ab.com",
+        "passwordInvalid": "abdoo"
+
+    }
+}
+
+
+}
